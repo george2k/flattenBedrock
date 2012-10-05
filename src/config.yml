@@ -1,0 +1,41 @@
+worldName: world
+flattenBedrock: true
+bedrockLevel: 0
+replaceWith:
+  - blockId: 14
+    dataValue: 0
+    weight: 1
+  - blockId: 15
+    dataValue: 0
+    weight: 1
+  - blockId: 56
+    dataValue: 0
+    weight: 1
+  - blockId: 140
+    dataValue: 0
+    weight: 1
+  - blockId: 140
+    dataValue: 1
+    weight: 1
+  - blockId: 140
+    dataValue: 2
+    weight: 1
+  - blockId: 140
+    dataValue: 3
+    weight: 1
+  - blockId: 140
+    dataValue: 4
+    weight: 1
+  - blockId: 140
+    dataValue: 6
+    weight: 1
+  - blockId: 247
+    dataValue: 0
+    weight: 1
+  - blockId: 248
+    dataValue: 0
+    weight: 1
+  - blockId: 249
+    dataValue: 0
+    weight: 1
+    
