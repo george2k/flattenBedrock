@@ -5,4 +5,8 @@
 *.war
 *.ear
 
+#exclude the bin folder
+bin
+
+#include jar files in the ref folder
 !ref/*.jar
